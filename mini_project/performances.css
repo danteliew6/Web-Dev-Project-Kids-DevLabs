@@ -1,0 +1,45 @@
+body {
+  background-color: lightblue;
+  background-image: url("images/funfair.png");
+  background-repeat: repeat;
+  background-size: 1000px;
+}
+
+h2 {
+  font-size: 30px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: DodgerBlue;
+}
+
+p {
+  font-size: 16px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: DodgerBlue;
+  font-weight: 600;
+}
+
+#textdiv {
+  margin-left: 20%;
+  margin-right: 20%;
+  padding: 15px 20px;
+  background-color: lightcyan;
+  border-radius: 20px;
+  border-width: 1px;
+  border-style: solid;
+}
+
+table {
+  margin: 15px 20px;
+  border-radius: 6px;
+  border-width: 2px;
+  border-color: DodgerBlue;
+  border-style: solid;
+  color: DodgerBlue;
+}
+
+th {
+  border-width: 1px;
+  border-radius: 6px;
+  border-style: solid;
+  padding: 10px;
+}

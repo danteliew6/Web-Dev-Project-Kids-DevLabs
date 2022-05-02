@@ -4,3 +4,33 @@ body {
   background-repeat: repeat;
   background-size: 1000px;
 }
+
+form {
+  margin-left: 10%;
+  margin-right: 10%;
+  padding: 10px 30px;
+  background-color: lightcyan;
+  border-radius: 20px;
+  border-width: 3px;
+  border-style: solid;
+}
+
+p {
+  font-weight: bold;
+  color: DodgerBlue;
+}
+
+h2 {
+  text-align: center;
+  font-size: 30px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: DodgerBlue;
+}
+
+#signup {
+  color: white;
+  font-weight: bold;
+  background-color: DodgerBlue;
+  border-radius: 8px;
+  padding: 10px 20px;
+}
