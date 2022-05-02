@@ -1,2 +1,2 @@
-# Web-Dev-Project-Kids-DevLabs
+# DevLabs-HTML
 Created with CodeSandbox

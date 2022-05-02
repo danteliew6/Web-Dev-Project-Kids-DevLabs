@@ -1,0 +1,59 @@
+body {
+  background-color: lightblue;
+  background-image: url("images/funfair.png");
+  background-repeat: repeat;
+  background-size: 1000px;
+}
+
+h2 {
+  color: DodgerBlue;
+  font-size: 30px;
+}
+
+p {
+  font-weight: 500;
+  font-size: 18px;
+}
+
+#textdiv {
+  margin-left: 20%;
+  margin-right: 20%;
+  padding: 20px;
+  background-color: lightgrey;
+  border-radius: 20px;
+  border-width: 1px;
+  border-style: solid;
+  text-align: center;
+}
+
+#signup {
+  color: white;
+  font-weight: bold;
+  background-color: DodgerBlue;
+  border-radius: 8px;
+  padding: 10px 20px;
+}
+
+h1 {
+  font-size: 48px;
+  font-weight: bold;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding: 20px;
+  margin: 0;
+  color: DodgerBlue;
+  text-align: center;
+}
+
+#imagediv {
+  text-align: center;
+}
+
+#titlediv {
+  margin-left: 10%;
+  margin-right: 10%;
+  background-color: lightcyan;
+  border-radius: 20px;
+  border-width: 3px;
+  border-style: solid;
+  text-align: center;
+}
