@@ -8,7 +8,7 @@
     <title>Static Template</title>
   </head>
   <body>
-    <form action="registered.html">
+    <form action="home.html">
       <h2>Family Day Celebration 2022 Sign Up Form</h2>
       <p>Name</p>
       <input type="text" name="name" />
@@ -37,9 +37,20 @@
       <br />
       <br />
 
-      <input type="submit" id="signup" value="Submit" />
+      <input
+        type="submit"
+        id="signup"
+        value="Submit"
+        onclick="directSuccess()"
+      />
       <br />
       <br />
     </form>
   </body>
+
+  <script>
+    function directSuccess() {
+      alert("You have successfully registered for the event! See you there!");
+    }
+  </script>
 </html>
